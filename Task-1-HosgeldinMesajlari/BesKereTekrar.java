@@ -1,4 +1,4 @@
-class Main {
+class BesKereTekrar {
     public static void main(String[] args) {
         System.out.println("Javaya hosgeldiniz");
         System.out.println("Javaya hosgeldiniz");
@@ -7,3 +7,4 @@ class Main {
         System.out.println("Javaya hosgeldiniz");
     }
 }
+
